@@ -1,4 +1,4 @@
-# Fusion_DNN_OPG_EHR
+# Multimodal deep learning approach to predicting systemic diseases from oral conditions
 
 Here we developed a multimodal deep learning model to predict systemic diseases from oral condition. We used both OPG and EHR data to train our model. 
 
